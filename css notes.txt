@@ -1,0 +1,33 @@
+CASCADING STYLE SHEETS (CSS)
+
+
+1. Syntax
+	selector {property: value; }
+
+	The selector is usually the tag element that you want the style to belong to.
+
+	eg.  body {
+		text-align: center;
+		font-family: Arial;
+	        }
+
+2. THE CASCADE
+     In order of increasing importance:
+
+	1) external style sheets: linked using a <link> tag to the css file
+	2) embedded: styles defined inside the <head> tags
+	3) inline: styles inside the tags themselves!
+
+	This means that embedded styles will override external styles and inline styles will
+	override embedded styles (ie. the closer you get to the actual objects on the page,
+	the more important the styles defined are)
+
+3. Inheritance
+
+	You can define styles for tags more than once in a stylesheet and it will all be
+	inherited!
+
+4. Classes
+
+	You can make up your own "classes" so that you can use certain styles
+	like colour, background, etc. whenever you want!
