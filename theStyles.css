@@ -1,11 +1,15 @@
 /* By the way, this is how you create commenting in CSS */
 
-/* Make the body's background black, the text yellow, and the font Verdana (first choice) or sans-serif (second choice)
-body {
+/* Make the body's background black, the text yellow, and the font Verdana (first choice) or sans-serif (second choice) */
+body {background-color:black;
+  font-family:verdana;
+  color:yellow;
 }
 
 /* Make the heading 1 style green,Times New Roman or serif, bold, and xx-large sized */
-h1 {
+h1 {color:green;
+  font-family:times new roman;
+  font-size:90;
 }
 
 /* Make the heading 2 style red, Times New Roman or serif, bold, italic, and 20pt sized */
