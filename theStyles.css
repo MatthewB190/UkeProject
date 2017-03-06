@@ -13,7 +13,9 @@ h1 {color:green;
 }
 
 /* Make the heading 2 style red, Times New Roman or serif, bold, italic, and 20pt sized */
-h2 {
+h2 {color:red;
+  font-family:times new roman;
+  font-size:20;
 }
 
 /* Make the link have no text decoration and bold */
