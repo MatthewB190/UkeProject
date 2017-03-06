@@ -14,7 +14,7 @@ h1 {color:green;
 
 /* Make the heading 2 style red, Times New Roman or serif, bold, italic, and 20pt sized */
 h2 {color:red;
-  font-family:times new roman;
+  font-family:timesnewroman;
   font-size:20;
 }
 
