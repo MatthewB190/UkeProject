@@ -1,0 +1,25 @@
+/* By the way, this is how you create commenting in CSS */
+
+/* Make the body's background black, the text yellow, and the font Verdana (first choice) or sans-serif (second choice)
+body {
+}
+
+/* Make the heading 1 style green,Times New Roman or serif, bold, and xx-large sized */
+h1 {
+}
+
+/* Make the heading 2 style red, Times New Roman or serif, bold, italic, and 20pt sized */
+h2 {
+}
+
+/* Make the link have no text decoration and bold */
+a:link {
+}
+
+/* Make the link have no decoration, red, have a background colour of orange, and change to a help cursor when the mouse hovers over it */
+a:hover {
+}
+
+/* Make the visited link have no text decoration and bold */
+a:visited {
+}
