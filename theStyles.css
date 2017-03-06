@@ -19,7 +19,8 @@ h2 {color:red;
 }
 
 /* Make the link have no text decoration and bold */
-a:link {
+a:link {text-decoration:none;
+  font-weight:strong;
 }
 
 /* Make the link have no decoration, red, have a background colour of orange, and change to a help cursor when the mouse hovers over it */
